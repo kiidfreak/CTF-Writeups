@@ -12,7 +12,9 @@
 
 
                           Simple but tricky right! We have to find all tokens then reverse them.
-![Screenshot (12)](https://user-images.githubusercontent.com/59394569/110781087-8390f880-8276-11eb-951a-a60e0b0eeae0.png)
+
+![Screenshot (11)](https://user-images.githubusercontent.com/59394569/110781609-2e091b80-8277-11eb-8cc8-53948bb093f1.png)
+
 
 
 
