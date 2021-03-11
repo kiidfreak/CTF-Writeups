@@ -1,2 +1,3 @@
 # CTF-Writeups
-Some of cybertalents and other CTF walk-throughs from your Nairobian.
+Some of cybertalents and other CTF write-ups
+Updates as soon as I'm done
